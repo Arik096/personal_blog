@@ -19,7 +19,7 @@
             <a class="nav-link" href="index.php">Blog<span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="alma_mater.php">Amla Mater</a>
+            <a class="nav-link" href="alma_mater.php">Alma Mater</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Technical Skills</a>
@@ -46,12 +46,18 @@
             <a class="nav-link" href="#">Extra Curriculum</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Personal Infromation</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="#">References</a>
           </li>
         </ul>
+        <a class="navbar-brand" href="https://www.facebook.com/arik.isthiaque" target="_blank">
+      <img class="img" src=".//img/fb.png" width="30px" height="30px" alt="fb_image">
+    </a>
+    <a class="navbar-brand" href="https://www.linkedin.com/in/arik1155001/" target="_blank">
+  <img class="img" src=".//img/linkedin.png" width="35px" height="35px" alt="linkedin_image">
+</a>
+<a class="navbar-brand" href="https://github.com/Arik096" target="_blank">
+<img class="img" src=".//img/github.jpg" width="30px" height="30px" alt="github_image">
+</a>
       </div>
     </nav>
 
