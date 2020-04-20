@@ -19,7 +19,7 @@
             <a class="nav-link" href="index.php">Blog<span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Amla Mater</a>
+            <a class="nav-link" href="alma_mater.php">Amla Mater</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Technical Skills</a>
@@ -35,6 +35,7 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="#">Awards</a>
+              <div class="dropdown-divider"></div>
               <a class="dropdown-item" href="#">Certificates</a>
             </div>
           </li>
