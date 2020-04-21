@@ -7,7 +7,7 @@
   </head>
   <body>
 
-<div class="card-deck" style="height:500px;">
+<div class="card-deck" style="height:inherit;">
     <div class="card border-primary pt-2">
   <div class="card-header">
     <h2 style="text-align:center">Languages</h2>
