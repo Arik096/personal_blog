@@ -20,7 +20,7 @@
 
         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
           <div class="card-body">
-            using basic PHP and MySQL database
+            Using basic PHP and MySQL database
             <br>
             <br>
             <a class="btn btn-info" href="http://baiusthall.byethost13.com/" target="_blank">Live Demo</a>
