@@ -9,7 +9,7 @@
   <body>
 
     <div class="card-deck" style="height:600px;">
-      <div class="card border-primary" >
+      <div class="card border-primary px-5" >
       <img class="card-img-top" src="img/baiust.gif"  width="100px" height="350px" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">B.Sc. in Computer Science and Engineering (March, 2016 - April, 2020 expected)</h5>
@@ -17,7 +17,7 @@
         <a href="https://www.baiust.edu.bd/" target="_blank" class="btn btn-primary">BAIUST Website</a>
       </div>
     </div>
-    <div class="card border-primary">
+    <div class="card border-primary px-5">
     <img class="card-img-top" src="img/ndc.jpg" width="100px" height="350px" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Higher Secondary Certificate (2013 - 2015)</h5>
@@ -25,7 +25,7 @@
       <a href="https://notredamecollege-dhaka.com/" target="_blank" class="btn btn-primary">NDC Website</a>
     </div>
   </div>
-  <div class="card border-primary">
+  <div class="card border-primary px-5">
   <img class="card-img-top" src="img/acps.jpg" width="100px" height="350px" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Secondary School Certificate (2011 - 2013)</h5>
