@@ -8,7 +8,7 @@
   </head>
   <body>
 
-    <div class="card-deck" style="height:600px;">
+    <div class="card-deck" style="height:inherit">
       <div class="card border-primary px-5" >
       <img class="card-img-top" src="img/baiust.gif"  width="100px" height="350px" alt="Card image cap">
       <div class="card-body">
