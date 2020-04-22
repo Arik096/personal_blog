@@ -4,7 +4,7 @@
   </head>
   <body>
 
-    <div class="sticky-bottom" style="margin-bottom:0px;">
+    <div class="sticky-bottom">
     <div class="bg-dark mt-5 footer">
       <hr class="bg-primary">
       <h4 class="text-white text-center mt-2">Developed By</h4>
