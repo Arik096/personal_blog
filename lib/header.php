@@ -42,9 +42,6 @@
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="extra.php">Extra Curriculum</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="references.php">References</a>
           </li>
         </ul>
