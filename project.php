@@ -12,7 +12,7 @@
       <div class="card">
         <div class="card-header" id="headingOne">
           <h5 class="mb-0">
-            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)">
               BAIUST Hall Management
             </button>
           </h5>
@@ -32,7 +32,7 @@
       <div class="card">
         <div class="card-header" id="headingTwo">
           <h5 class="mb-0">
-            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)">
               Personal Portfolio
             </button>
           </h5>
@@ -52,7 +52,7 @@
       <div class="card">
         <div class="card-header" id="headingThree">
           <h5 class="mb-0">
-            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)">
               Shop Management System
             </button>
           </h5>
@@ -71,7 +71,7 @@
       <div class="card">
         <div class="card-header" id="headingFour">
           <h5 class="mb-0">
-            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)">
               Library Management System
             </button>
           </h5>
@@ -91,7 +91,7 @@
       <div class="card">
         <div class="card-header" id="headingFive">
           <h5 class="mb-0">
-            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)">
               Hospital Management System
             </button>
           </h5>
@@ -111,7 +111,7 @@
       <div class="card">
         <div class="card-header" id="headingSix">
           <h5 class="mb-0">
-            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)">
               City bridge project
             </button>
           </h5>
@@ -131,7 +131,7 @@
       <div class="card">
         <div class="card-header" id="headingSeven">
           <h5 class="mb-0">
-            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)">
               Result Management System
             </button>
           </h5>
@@ -151,7 +151,7 @@
       <div class="card">
         <div class="card-header" id="headingEight">
           <h5 class="mb-0">
-            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)">
               Temperature controlled DC fan project
             </button>
           </h5>
