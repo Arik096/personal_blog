@@ -8,7 +8,7 @@
   <body>
 
 <div class="card-deck" style="height:inherit;">
-    <div class="card border-primary pt-2">
+    <div class="card border-primary pt-2" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)">
   <div class="card-header">
     <h2 style="text-align:center">Languages</h2>
   </div>
@@ -26,7 +26,7 @@
     </ul>
   </div>
 </div>
-<div class="card border-primary pt-2">
+<div class="card border-primary pt-2" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)">
 <div class="card-header">
 <h2 style="text-align:center">IDE & Tools</h2>
 </div>
@@ -46,7 +46,7 @@
   </ul>
 </div>
 </div>
-<div class="card border-primary pt-2">
+<div class="card border-primary pt-2" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)">
 <div class="card-header">
 <h2 style="text-align:center">Database & Tools</h2>
 </div>
