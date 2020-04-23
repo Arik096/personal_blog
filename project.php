@@ -43,7 +43,7 @@
             Using basic PHP and MySQL database
             <br>
             <br>
-            <a class="btn btn-info" href="http://baiusthall.byethost13.com/" target="_blank">Live Demo</a>
+            <a class="btn btn-info" href="http://arik.byethost12.com" target="_blank">Live Demo</a>
             <a class="btn btn-info" href="https://github.com/Arik096/personal_blog" target="_blank">GitHub</a>
           </div>
         </div>
