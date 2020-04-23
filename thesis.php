@@ -13,11 +13,11 @@
   <p class="lead">A Deep Machine Learning Architecture for Semantic Image Segmentation.</p>
   <p class="lead">
     <hr class="my-5">
-    <a class="btn btn-primary btn-lg"  href="pdf/ArNet.pdf" target="_blank" role="button" >Journal paper</a>
+    <a class="btn btn-primary btn-lg"  href="pdf/ArNet.pdf" target="_blank" role="button" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)" >Journal paper</a>
     <br>
     <hr class="my-4">
     <br>
-    <a class="btn btn-primary btn-lg"  href="pdf/SegNet.pdf" target="_blank" role="button" >Thesis book</a>
+    <a class="btn btn-primary btn-lg"  href="pdf/SegNet.pdf" target="_blank" role="button" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)">Thesis book</a>
 
   </p>
 </div>
