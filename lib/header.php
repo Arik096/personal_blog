@@ -42,7 +42,7 @@
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="references.php">References</a>
+            <a class="nav-link" href="References.php">References</a>
           </li>
         </ul>
         <a class="navbar-brand" href="https://www.facebook.com/arik.isthiaque" target="_blank">
